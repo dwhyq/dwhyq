@@ -1,4 +1,4 @@
-![codes](https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=996&t=st=1665432335~exp=1665432935~hmac=665728b7fe85d539dde403406682a714ca134e45cc171c09cac9d12af95b1817)
+![codes] <img alt="247 Coding" scr="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=996&t=st=1665432335~exp=1665432935~hmac=665728b7fe85d539dde403406682a714ca134e45cc171c09cac9d12af95b1817"  width='150' />
 
 <img alt="247 Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I am Ikenna</h2>
 
@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I pursue copywriting and digital strategy as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at dwhyq@outlook.com! I'll try to respond as soon as I can.\
 
-<img alt="247 Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="247 Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  width='80' align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,9 +35,8 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Tweet at me:
 
-<p align="center">
-Let's tweet:
+<p align="left">
 <a href="https://twitter.com/dWhy_Q_"><img src="https://img.shields.io/twitter/follow/dwhy_q?style=social"/></a>
 </p>
