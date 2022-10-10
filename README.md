@@ -6,9 +6,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I’m currently learning Javascript, ReactJs.\
 ✍️ &nbsp;In my free time, I pursue copywriting and digital strategy as hobbies/side hustles.\
-✉️ &nbsp;You can shoot me an email at dwhyq@outlook.com! I'll try to respond as soon as I can.\
-
-<img alt="247 Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  width='280' align="right"/>
+✉️ &nbsp;You can shoot me an email at dwhyq@outlook.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
