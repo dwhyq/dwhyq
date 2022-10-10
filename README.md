@@ -2,7 +2,7 @@
 
 <img alt="247 Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I am Ikenna</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I am Ikenna -->
+## 👋 &nbsp;Hey there! I am Ikenna
 
 ### 👨🏻‍💻 &nbsp;About Me
 
