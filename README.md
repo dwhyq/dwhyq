@@ -1,4 +1,4 @@
-![codes] <img alt="247 Coding" src="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=996&t=st=1665432335~exp=1665432935~hmac=665728b7fe85d539dde403406682a714ca134e45cc171c09cac9d12af95b1817"  style= "width:350"/>
+<img alt="247 Coding" src="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=996&t=st=1665432335~exp=1665432935~hmac=665728b7fe85d539dde403406682a714ca134e45cc171c09cac9d12af95b1817"  style="width:350;"/>
 
 <img alt="247 Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I am Ikenna</h2>
 
