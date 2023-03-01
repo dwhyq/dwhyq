@@ -2,9 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔭 &nbsp;I’m currently working on improving my front-end development skills..\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I’m currently learning Javascript, ReactJs.\
+🔭 &nbsp; A Frontend Developer with a focused passion for growth. Skilled at building responsive, scalable and user-friendly interfaces from ground up. I believe there's a lot more tech can do africa, so i am open to work with you in building renowned tech solutions while adapting to the changes in trends.
+
+
+💡 &nbsp;I like to explore new technologies.\
+🌱 &nbsp;Currently, i am working on personal projects and contributing to open source.\
 ✍️ &nbsp;In my free time, I pursue copywriting and digital strategy as hobbies/side hustles.\
 ✉️ &nbsp;You can reach me at ikegwuonuikenna@yahoo.com I'll respond as soon as I can.
 
@@ -12,8 +14,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-<!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\ -->
+![TailwindCSS](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=TailwindCSS&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -32,5 +33,5 @@
 ### 🤝🏻 &nbsp;Tweet at me:
 
 <p align="left">
-<a href="https://twitter.com/dWhy_Q_"><img src="https://img.shields.io/twitter/follow/dwhy_q?style=social"/></a>
+<a href="https://twitter.com/_lkenna_?t=0sr7ypqYsVFlohoWZs9BnQ&s=08_" target="_blank"><img src="https://img.shields.io/twitter/follow/lkenna?style=social"/></a>
 </p>
