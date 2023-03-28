@@ -8,7 +8,7 @@
 💡 &nbsp;I like to explore new technologies.\
 🌱 &nbsp;Currently, i am working on personal projects and contributing to open source.\
 ✍️ &nbsp;In my free time, I pursue copywriting and digital strategy as hobbies/side hustles.\
-✉️ &nbsp;You can reach me at ikegwuonuikenna@yahoo.com I'll respond as soon as I can.
+✉️ &nbsp;You can reach me at ikennasolvedit@gmail.com I'll respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
