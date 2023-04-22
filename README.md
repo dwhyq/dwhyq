@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🔭 &nbsp; A Frontend Developer with a focused passion for growth. Skilled at building responsive, scalable and user-friendly interfaces from ground up. I believe there's a lot more tech can do in africa, so i am open to work with you in building renowned tech solutions while adapting to the changes in trends.
+🔭 &nbsp; A Frontend Developer with a focused passion for growth. Skilled at building responsive, scalable and user-friendly interfaces from ground up. I believe there's a lot more tech can do in our world, so i am open to work with you in building renowned tech solutions while adapting to the changes in trends.
 
 
 💡 &nbsp;I like to explore new technologies.\
