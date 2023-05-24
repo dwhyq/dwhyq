@@ -1,13 +1,14 @@
-## 👋 &nbsp;Hey there! I am Ikenna
+## 👋 &nbsp;Hey there! I am ![image](https://github.com/dwhyq/dwhyq/assets/103536966/d795c813-1ed9-48ca-8c51-da149abd9e26)
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 🔭 &nbsp; A Frontend Developer with a focused passion for growth. Skilled at building responsive, scalable and user-friendly interfaces from ground up. I believe there's a lot more tech can do in our world, so i am open to work with you in building renowned tech solutions while adapting to the changes in trends.
 
-
 💡 &nbsp;I like to explore new technologies.\
-🌱 &nbsp;Currently, i am working on personal projects and contributing to open source.\
-✍️ &nbsp;In my free time, I pursue copywriting and digital strategy as hobbies/side hustles.\
+🌱 &nbsp;Currently, i am always working on something o looking for what i can contribute to.\
+✍️ &nbsp;In my free time, I research about new frontend technologies while writing and sharing excitings stories/interviews about the world of tech <a href="https://ikennasbranch.medium.com"  target="_blank" >view my blog<a/>
+  
 ✉️ &nbsp;You can reach me at ikennasolvedit@gmail.com I'll respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
